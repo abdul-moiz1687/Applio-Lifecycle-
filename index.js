@@ -19,9 +19,9 @@ app.use(helmet());
 app.use(
   cors({
     origin: [
-      "http://localhost:3000",
-      "http://localhost:5173",
-    ],
+  "http://localhost:5173",
+  "https://applio-lifecycle.vercel.app",
+]
   })
 );
 
