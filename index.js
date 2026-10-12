@@ -22,6 +22,7 @@ app.use(
   "http://localhost:5173",
    "http://localhost:5174",
   "https://applio-lifecycle.vercel.app",
+        "https://applio-admin.vercel.app",
 ]
   })
 );
